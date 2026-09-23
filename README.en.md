@@ -60,7 +60,7 @@ Loose oil pastel and crayon. Contours do not fully close. Edges break. Paper gra
 Install from GitHub:
 
 ```bash
-npx skills add https://github.com/nevertoday/xxd-panel-240 --skill xxd-panel-240
+npx skills add https://github.com/xiaoxiaodong-ai/xxd-panel-240 --skill xxd-panel-240
 ```
 
 Restart the agent session after installation, then invoke `$xxd-panel-240`. Add `--global --agent codex --yes` when a user-level Codex installation is wanted.
