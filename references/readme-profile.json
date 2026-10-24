@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 240｜Crayon Visual Diary: keeps only the single moment, gesture or relationship most worth remembering in a photo and draws it as a page from a private visual diary — loose oil pastel and crayon, simplified forms, outlines left open, broken edges, paper grain and waxy drag, uneven coverage and hesitant strokes, deliberately stopped before it is finished — with a small subject placed off-centre, at an edge or cropped, people shown in natural unposed movement with anonymous faces, in a soft warm earthy palette from the photo (warm ivory, blue-grey, plant green, terracotta, apricot brown, dusty pink) plus one or two warm highlights, lots of blank paper and a few casual handwritten words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-240 or asks for oil pastel or crayon journal sketches, unfinished visual-diary drawings from a photo.",
+  "short_description": "蜡笔视觉日记：把照片收成一页没画完的油画棒蜡笔日记，小主体、暖土色、大量空白",
+  "zh-CN": {
+    "name": "蜡笔视觉日记",
+    "tagline": "把照片收成一页没画完的蜡笔视觉日记：小主体、暖土色、大量空白。",
+    "look": "只留下照片里一个最值得记住的瞬间、动作或关系，画成私人视觉日记里的一页：松散的油画棒和蜡笔，形体简化，轮廓不闭合，边缘破碎，看得见纸面颗粒、蜡的摩擦、不均匀的覆盖和迟疑的笔触，只在关键处留几笔细节，其余故意停笔没画完。主体小，可以偏心、贴边或被裁切；人物是没摆拍的自然动作，五官匿名。颜色从照片色温里来，是暖象牙、柔蓝灰、植物绿、陶土红、杏褐、灰粉这类低饱和暖色，再留一两处暖色亮点。大片空白里随手写着几个字或一小句，像旅行手记。",
+    "traits": ["油画棒蜡笔", "未完成", "小尺度留白", "暖象牙土色", "私人日记", "匿名动作"],
+    "good": [
+      "自然抓拍的生活瞬间：牵手过马路、蹲下系鞋带、晒太阳的猫",
+      "旅途中的小片段：车窗外的田野、海边的背影、早餐桌一角",
+      "想做旅行手记、私人日记或独立出版物插画的照片"
+    ],
+    "poor": [
+      "需要看清面孔和身份的人像：证件照、写真、合影，五官会被匿名化",
+      "需要精细完成度的商业用图：产品图、海报主图、菜单",
+      "想要画满整张、光滑精描、荧光或甜腻糖果色的需求"
+    ]
+  },
+  "en": {
+    "name": "Crayon Visual Diary",
+    "tagline": "Turns a photo into an unfinished crayon diary page: a small subject, warm earth tones and lots of blank paper.",
+    "look": "Only the one moment, gesture or relationship most worth remembering in your photo is kept and drawn as a page from a private visual diary: loose oil pastel and crayon, simplified forms, outlines left open and broken edges, with paper grain, waxy drag, uneven coverage and hesitant strokes visible. Detail appears only in a few key places and the rest is deliberately left unfinished. The subject is small and may sit off-centre, against an edge or cropped; people are caught in natural, unposed movement with anonymous faces. Colours come from the photo's colour temperature: low-saturation warm tones such as warm ivory, soft blue-grey, plant green, terracotta, apricot brown and dusty pink, with one or two warm highlights. A few casual handwritten words or a short line sit in the blank paper, like a travel journal.",
+    "traits": ["Oil pastel and crayon", "Unfinished", "Small subject, open space", "Warm ivory and earth", "Private diary", "Anonymous gestures"],
+    "good": [
+      "Candid everyday moments: holding hands while crossing the road, crouching to tie a shoe, a cat in the sun",
+      "Small fragments from a trip: fields through a train window, a figure seen from behind by the sea, a corner of the breakfast table",
+      "Photos you want as a travel journal, a private diary or an indie-press illustration"
+    ],
+    "poor": [
+      "Portraits where the face and identity must be clear, such as ID photos, photo shoots or group shots, since faces are made anonymous",
+      "Commercial images that need a high level of finish: product shots, main poster images, menus",
+      "Requests for a fully covered page, smooth detailed rendering, fluorescent or sugary candy colours"
+    ]
+  },
+  "ja": {
+    "name": "クレヨンの視覚日記",
+    "tagline": "写真を、描ききらないクレヨンの視覚日記の一頁にします。小さな主役、暖かな土色、広い空白。",
+    "look": "写真でいちばん覚えておきたい瞬間、動き、関係を一つだけ残し、私的な視覚日記の一頁として描きます。ゆるいオイルパステルとクレヨンで、形は簡略化され、輪郭は閉じきらず、縁は崩れ、紙の粒子、蝋の擦れ、むらのある塗り、ためらう筆致が見えます。細部は要所に少しだけ残し、ほかはわざと途中で手を止めています。主役は小さく、中心から外したり、端に寄せたり、切れていたりします。人物はポーズをとらない自然な動きで、顔立ちは匿名です。色は写真の色温度から取った低彩度の暖色で、暖かな象牙色、柔らかな青灰、植物の緑、テラコッタ、杏色がかった茶、くすんだピンクに、暖色の明るい点を一、二か所。広い空白には、旅の手記のように、さりげない手書きの数語か短い一文が入ります。",
+    "traits": ["オイルパステルとクレヨン", "描きかけ", "小さな主役と余白", "暖かな象牙色と土色", "私的な日記", "匿名の動き"],
+    "good": [
+      "自然に撮れた暮らしの瞬間：手をつないで道を渡る、しゃがんで靴ひもを結ぶ、日なたの猫",
+      "旅の小さなかけら：車窓の畑、海辺の後ろ姿、朝食のテーブルの一角",
+      "旅の手記、私的な日記、インディー出版物の挿絵にしたい写真"
+    ],
+    "poor": [
+      "顔と人物がはっきりわかる必要がある写真：証明写真、ポートレート撮影、集合写真（顔立ちは匿名になります）",
+      "高い完成度が必要な商業画像：商品写真、ポスターのメイン画像、メニュー",
+      "画面を塗りつぶす、なめらかに描き込む、蛍光色や甘すぎるキャンディカラーを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "크레용 시각 일기",
+    "tagline": "사진을 다 그리지 않은 크레용 시각 일기 한 장으로 담습니다. 작은 주인공, 따뜻한 흙색, 넓은 빈칸.",
+    "look": "사진에서 가장 기억할 만한 순간, 동작, 관계 하나만 남겨 개인 시각 일기의 한 페이지로 그립니다. 느슨한 오일 파스텔과 크레용으로, 형태는 단순하고 윤곽은 닫히지 않으며 가장자리는 부서지고, 종이 입자, 밀랍이 긁힌 자국, 고르지 않은 칠, 머뭇거리는 붓질이 보입니다. 세부는 중요한 곳에만 조금 남기고 나머지는 일부러 그리다 멈춥니다. 주인공은 작고, 한쪽으로 치우치거나 가장자리에 붙거나 잘려 있어도 됩니다. 사람은 꾸미지 않은 자연스러운 동작에 이목구비는 익명입니다. 색은 사진의 색온도에서 온 저채도 따뜻한 색으로, 따뜻한 상아색, 부드러운 청회색, 식물 초록, 테라코타, 살구빛 갈색, 탁한 분홍에 따뜻한 밝은 점을 한두 곳 남깁니다. 넓은 빈 종이에는 여행 수첩처럼 무심한 손글씨 몇 글자나 짧은 한 줄이 적힙니다.",
+    "traits": ["오일 파스텔과 크레용", "미완성", "작은 주인공과 여백", "따뜻한 상아색과 흙색", "개인 일기", "익명의 동작"],
+    "good": [
+      "자연스럽게 찍힌 일상 순간: 손잡고 길 건너기, 쪼그려 신발 끈 묶기, 햇볕 쬐는 고양이",
+      "여행 중의 작은 조각: 차창 밖 들판, 바닷가의 뒷모습, 아침 식탁 한 구석",
+      "여행 수첩, 개인 일기, 독립 출판물 삽화로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "얼굴과 신원이 분명해야 하는 인물 사진: 증명사진, 프로필 촬영, 단체 사진(이목구비가 익명이 됩니다)",
+      "높은 완성도가 필요한 상업 이미지: 제품 사진, 포스터 메인 이미지, 메뉴판",
+      "화면을 가득 채우거나 매끈하게 정밀 묘사하거나 형광색, 달콤한 사탕색을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "يوميات بصرية بأقلام الشمع",
+    "tagline": "يحوّل الصورة إلى صفحة غير مكتملة من يوميات بأقلام الشمع: عنصر صغير وألوان ترابية دافئة وورق فارغ كثير.",
+    "look": "لا يبقى من صورتك إلا لحظة أو حركة أو علاقة واحدة هي الأجدر بالتذكّر، وتُرسم صفحةً من يوميات بصرية خاصة: باستيل زيتي وأقلام شمع حرّة، وأشكال مبسّطة، وحدود مفتوحة وحواف متكسرة، مع ظهور حبيبات الورق واحتكاك الشمع والتغطية غير المتساوية والضربات المترددة. لا تظهر التفاصيل إلا في مواضع قليلة أساسية، ويُترك الباقي عمداً دون إكمال. العنصر صغير، وقد يكون بعيداً عن المركز أو ملاصقاً للحافة أو مقتطعاً؛ والأشخاص في حركة طبيعية غير متكلّفة بوجوه مجهولة الملامح. الألوان مستمدة من حرارة ألوان الصورة: درجات دافئة قليلة التشبع كالعاجي الدافئ والأزرق الرمادي الناعم والأخضر النباتي والطيني والبني المشمشي والوردي الرمادي، مع نقطة أو نقطتين مضيئتين دافئتين. وفي الورق الفارغ كلمات قليلة أو سطر قصير بخط يد عفوي، كأنه دفتر رحلة.",
+    "traits": ["باستيل زيتي وأقلام شمع", "غير مكتمل", "عنصر صغير وفراغ", "عاجي دافئ وألوان ترابية", "يوميات خاصة", "حركات مجهولة الملامح"],
+    "good": [
+      "لحظات يومية عفوية: يدان متشابكتان تعبران الطريق، انحناء لربط حذاء، قطة في الشمس",
+      "شذرات صغيرة من رحلة: حقول من نافذة قطار، ظهر شخص على البحر، زاوية من مائدة الفطور",
+      "صور تريدها دفتر رحلة أو يوميات خاصة أو رسماً لمطبوعة مستقلة"
+    ],
+    "poor": [
+      "صور شخصية يجب أن يكون فيها الوجه والهوية واضحين كصور الهوية وجلسات التصوير والصور الجماعية، إذ تصير الملامح مجهولة",
+      "صور تجارية تحتاج إلى إتقان عالٍ: صور المنتجات، الصورة الرئيسية لملصق، قوائم الطعام",
+      "طلب صفحة مغطاة بالكامل أو رسم مصقول دقيق أو ألوان فسفورية أو حلوى سكرية"
+    ]
+  }
+}
